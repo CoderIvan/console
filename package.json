@@ -1,0 +1,16 @@
+{
+  "name": "my-console",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "author": "Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
