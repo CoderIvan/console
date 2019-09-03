@@ -19,7 +19,7 @@ function reduce(fixs, ...args) {
 
 class MyConsole {
 	constructor(options, { prefixs, suffixs, now, print } = {}) {
-		this.options = Object.assign({}, DEFAULT_OPTIONS, options)
+		this.options = { ...DEFAULT_OPTIONS, ...options }
 
 		this.prefixs = prefixs || ''
 		this.suffixs = suffixs || ''
