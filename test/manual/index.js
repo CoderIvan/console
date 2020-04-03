@@ -1,5 +1,5 @@
 const tools = require('./tools')
-const MyConsole = require('../../');
+const MyConsole = require('../..');
 
 (async () => {
 	await (async () => {
