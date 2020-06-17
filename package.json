@@ -1,20 +1,20 @@
 {
   "name": "@z-ivan/console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "console",
   "main": "index.js",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/CoderIvan/RedisMQ"
-	},
+    "type": "git",
+    "url": "https://github.com/CoderIvan/console"
+  },
   "author": "Ivan",
   "license": "ISC",
   "devDependencies": {
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint": "^6.8.0",
-    "eslint-plugin-import": "^2.20.1"
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint": "^7.2.0",
+    "eslint-plugin-import": "^2.21.2"
   },
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.26.0"
   }
 }
