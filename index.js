@@ -62,8 +62,9 @@ class MyConsole {
 }
 
 [
+	['debug', 'D'],
 	['info', 'I'],
-	['log', 'D'],
+	['log', 'L'],
 	['warn', 'W'],
 	['error', 'E'],
 ].forEach(([level, levelShort]) => {
