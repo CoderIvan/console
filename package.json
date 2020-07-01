@@ -1,6 +1,6 @@
 {
   "name": "@z-ivan/console",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "console",
   "main": "index.js",
   "repository": {
@@ -11,10 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "eslint-config-airbnb-base": "^14.2.0",
-    "eslint": "^7.2.0",
-    "eslint-plugin-import": "^2.21.2"
+    "eslint": "^7.3.1",
+    "eslint-plugin-import": "^2.22.0"
   },
   "dependencies": {
-    "moment": "^2.26.0"
+    "moment": "^2.27.0"
   }
 }
